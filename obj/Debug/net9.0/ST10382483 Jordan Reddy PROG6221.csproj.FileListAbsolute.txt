@@ -1,0 +1,18 @@
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\obj\Debug\net9.0\ST10382483 Jordan Reddy PROG6221.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\obj\Debug\net9.0\ST10382483 Jordan Reddy PROG6221.AssemblyInfoInputs.cache
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\obj\Debug\net9.0\ST10382483 Jordan Reddy PROG6221.AssemblyInfo.cs
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\obj\Debug\net9.0\ST10382483 Jordan Reddy PROG6221.csproj.CoreCompileInputs.cache
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\bin\Debug\net9.0\ST10382483 Jordan Reddy PROG6221.exe
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\bin\Debug\net9.0\ST10382483 Jordan Reddy PROG6221.deps.json
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\bin\Debug\net9.0\ST10382483 Jordan Reddy PROG6221.runtimeconfig.json
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\bin\Debug\net9.0\ST10382483 Jordan Reddy PROG6221.dll
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\bin\Debug\net9.0\ST10382483 Jordan Reddy PROG6221.pdb
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\obj\Debug\net9.0\ST10382483 Jordan Reddy PROG6221.csproj.AssemblyReference.cache
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\obj\Debug\net9.0\ST103824.09884C88.Up2Date
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\obj\Debug\net9.0\ST10382483 Jordan Reddy PROG6221.dll
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\obj\Debug\net9.0\refint\ST10382483 Jordan Reddy PROG6221.dll
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\obj\Debug\net9.0\ST10382483 Jordan Reddy PROG6221.pdb
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\obj\Debug\net9.0\ST10382483 Jordan Reddy PROG6221.genruntimeconfig.cache
+C:\Users\reddy\source\repos\ST10382483 Jordan Reddy PROG6221\ST10382483 Jordan Reddy PROG6221\obj\Debug\net9.0\ref\ST10382483 Jordan Reddy PROG6221.dll
